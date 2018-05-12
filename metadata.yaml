@@ -34,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/92
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27610#Exp-riences-et-observations-sur-l--lectricit--faites---Philadelphie-en-Am-rique
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - Physics
