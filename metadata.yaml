@@ -1,0 +1,55 @@
+_repo: Exp-riences-et-observations-sur-l--lectricit--faites---Philadelphie-en-Am-rique_27610
+_version: 0.1.0
+alternative_title: Experiments and observations on electricity. French
+contributor:
+  contributors:
+  - agent_name: Canton, John
+    birthdate: 1718
+    deathdate: 1772
+    gutenberg_agent_id: '32797'
+    url: http://www.gutenberg.org/2009/agents/32797
+  - agent_name: Colden, David
+    birthdate: 1733
+    deathdate: 1784
+    gutenberg_agent_id: '32796'
+    url: http://www.gutenberg.org/2009/agents/32796
+  translator:
+    agent_name: Dalibard, Thomas François
+    aliases:
+    - d'Alibard, Thomas François
+    - Dalibard, Thomas Francois
+    birthdate: 1703
+    deathdate: 1799
+    gutenberg_agent_id: '32794'
+    url: http://www.gutenberg.org/2009/agents/32794
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franklin, Benjamin
+    birthdate: 1706
+    deathdate: 1790
+    gutenberg_agent_id: '92'
+    url: http://www.gutenberg.org/2009/agents/92
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- Physics
+gutenberg_issued: '2008-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27610'
+  lccn: '21001351'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Electricity -- Early works to 1850'
+- !lcsh 'Nollet, abbé (Jean Antoine), 1700-1770. Lettres sur l''électricité'
+- !lcsh 'Electricity -- History'
+title: Expériences et observations sur l'électricité faites à Philadelphie en Amérique
+url: http://www.gutenberg.org/ebooks/27610
